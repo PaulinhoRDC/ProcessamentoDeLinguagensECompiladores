@@ -1,0 +1,38 @@
+{
+"commentThread": [
+{
+"id": "3",
+"user": "Jackrussell593",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "Nice one Carol, more power to you.",
+"likes": 0,
+"hasReplies": true,
+"numberOfReplies": 1,
+"replies": [
+{
+"id": "200",
+"user": "barbarab",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "Well, she has enough room to put the batteries in..",
+"likes": 0,
+"hasReplies": false,
+"numberOfReplies": 0,
+"replies": []
+}
+]
+},
+{
+"id": "2",
+"user": "JosephDavidson",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "Looks nice in that orange top, some colours are better suited.",
+"likes": 0,
+"hasReplies": false,
+"numberOfReplies": 0,
+"replies": []
+}
+]
+}

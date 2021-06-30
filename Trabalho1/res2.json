@@ -1,0 +1,60 @@
+{
+"commentThread": [
+{
+"id": "30",
+"user": "Cooperj",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "Who cares really?",
+"likes": 34,
+"hasReplies": true,
+"numberOfReplies": 2,
+"replies": [
+{
+"id": "200",
+"user": "SRFexport",
+"date": "23Â Aug ",
+"timestamp": "NA",
+"commentText": "The express, and a lot",
+"likes": 0,
+"hasReplies": false,
+"numberOfReplies": 0,
+"replies": []
+},
+{
+"id": "201",
+"user": "Hotlegs-Gigi",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "Um, no one !",
+"likes": 6,
+"hasReplies": false,
+"numberOfReplies": 0,
+"replies": []
+}
+]
+},
+{
+"id": "29",
+"user": "ChampagneDosser",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "Men like Chris Evans and Bojo all get to date young women while looking like obese scarecrows so why does she need to explain herself?",
+"likes": 17,
+"hasReplies": false,
+"numberOfReplies": 0,
+"replies": []
+},
+{
+"id": "202",
+"user": "Hotlegs-Gigi",
+"date": "22Â Aug ",
+"timestamp": "NA",
+"commentText": "She really doesn't do herself any favours does she.",
+"likes": 14,
+"hasReplies": false,
+"numberOfReplies": 0,
+"replies": []
+}
+]
+}
